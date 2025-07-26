@@ -19,8 +19,6 @@ Users should be able to:
 - No frameworks — pure HTML & CSS
 
 ## 📸 Screenshots
-
-![Preview](/design/my-prject.png)
  
 ### Desktop
 ![Desktop preview](/design/my-prject.png)
