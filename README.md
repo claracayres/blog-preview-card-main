@@ -19,11 +19,13 @@ Users should be able to:
 - No frameworks — pure HTML & CSS
 
 ## 📸 Screenshots
- 
+
 ### Desktop
+
 ![Desktop preview](/design/my-prject.png)
 
 ### Mobile
+
 ![Mobile Preview](/design/mobile.png)
 
 ## 🧠 What I Learned
@@ -38,8 +40,8 @@ This project helped me practice:
 
 ## 🚀 Live Demo
 
-- 🔗 Live Site: [**View Website**](https://your-live-url.com)
-- 💾 Repo: [GitHub](https://github.com/claracayres/blog-preview-card)
+- 🔗 Live Site: [**View Website**](https://claracayres.github.io/blog-preview-card-main)
+- 💾 Repo: [GitHub](https://github.com/claracayres/blog-preview-card-main)
 
 ## 🧩 How to Use
 
@@ -47,4 +49,9 @@ To run this project locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/claracayres/blog-preview-card.git
+   git clone https://github.com/claracayres/blog-preview-card-main.git
+   ```
+
+---
+
+Built By Clara Cayres💜
